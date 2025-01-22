@@ -6,8 +6,6 @@ description: Develop the mindset that challenges traditional hierarchies in know
 image: 
 category: [Stage 0]
 tags: [education, confucius, revolutionary, stage zero]
-published: false
-sitemap: false
 pin: true
 ---
  # Stage 0
