@@ -1,0 +1,14 @@
+---
+layout: post
+title: Revolutionary Thinking
+date: 2025-01-22 21:23 +0000
+description: Develop the mindset that challenges traditional hierarchies in knowledge and education. 
+image: 
+category: [Stage 0]
+tags: [education, confucius, revolutionary, stage zero]
+published: false
+sitemap: false
+pin: true
+---
+ # Stage 0
+ ## Revolutionary Thinking
