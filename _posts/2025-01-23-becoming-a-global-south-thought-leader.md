@@ -18,7 +18,7 @@ pin: true
 
 ## Welcome to the Journey!
 
-Whether you’re a researcher, a problem solver, or simply someone who wants to make a positive impact, this program is designed to help you think critically & creatively, act wisely,  and empower others.
+This introduction sets the foundation for your growth as a Global South Thought Leader (GS-TL). Whether you’re a researcher, a problem solver, or simply someone who wants to make a positive impact, this program is designed to help you think critically & creatively, act wisely,  and empower others.
 
 ---
 
@@ -76,7 +76,8 @@ So data comes from humans, and it is biased based on what that person thinks is 
 
 In the example above, perhaps the only reason someone gains these observations from the birds is because they believe birds are important and add to our life somehow. This is *wisdom* that is dictating the data that we observe.&#x20;
 
-Becoming a GS Thought Leader involves progressing from **wisdom** to **wisdom**.
+> Becoming a GS Thought Leader involves starting from wisdom and progressing through the Wheel of Wisdom (WoW).
+{: .prompt-info }
 
 Cognitive processes are biased. We see the data that we want to see or are taught to see. So to see things differently will take wisdom.&#x20;
 
@@ -106,7 +107,7 @@ Your development as a GS-TL will follow three key components:
 
 ### Learning Through Teaching Activities
 
-As Seneca once said, “While we teach, we learn.”&#x20;
+>“While we teach, we learn.” - Seneca &#x20;
 
 A key part of this program is teaching and mentoring others. You will need to seek new perspectives and ideas to share with everyone and give constant feedback to others, mentoring them throughout this journey.
 
@@ -126,7 +127,7 @@ By mentoring through feedback tasks, you will:
 
 ### We Are A Team!
 
-Teamwork and leadership practice start right here in this program. Everyone is accountable to everyone else and we are only as strong as our weakest link!
+Teamwork and leadership is practiced within this program. We will not only build collaboration skills but also fosters individual growth by encouraging accountability, mutual support, and shared learning experiences.
 
 **Team Leader:** We will split into two teams, each having a team leader. Every 2 months we will change team leaders.&#x20;
 
