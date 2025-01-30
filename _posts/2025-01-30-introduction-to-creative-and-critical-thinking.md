@@ -136,6 +136,8 @@ Our cognitive capacity is limited, we can't know everything. So ultimately, **wh
 
 ## [Lectures](https://youtube.com/playlist?list=PLgg7KuV8Q3vXOz-yclleYvxUOJQMNK2rC&si=dfG5h5H4fs6V83IT)
 
+### Highlighted Lecture Video
+{% include embed/youtube.html id='3RJtQNjReNY' %}
 ---
 
 ## Final Thoughts

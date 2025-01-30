@@ -153,6 +153,8 @@ By embracing Confucius’s revolutionary idea, we can learn to balance tradition
 
 ## [Lectures](https://youtube.com/playlist?list=PLgg7KuV8Q3vVKvrKQu25b8DhM-GpxpwSr&si=onAjb4bzoDGfq1DI)
 
+### Highlighted Lecture Video
+{% include embed/youtube.html id='-hsXpskVkBU' %}
 ---
 
 ## The Revolution is in the Mind
