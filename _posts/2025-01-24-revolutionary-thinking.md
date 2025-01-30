@@ -13,7 +13,6 @@ tags:
 - revolutionary
 - stage zero
 pin: false
-publish: false
 date: 2025-01-24 07:17 +0000
 ---
 # Stage 0
@@ -150,13 +149,16 @@ This insight from Confucius inspired the Global South Thought Leadership Program
 
 By embracing Confucius’s revolutionary idea, we can learn to balance tradition with innovation, creating a world that values wisdom, respect, and compassion.
 
-[Lectures](https://youtube.com/playlist?list=PLgg7KuV8Q3vVKvrKQu25b8DhM-GpxpwSr&si=onAjb4bzoDGfq1DI)
+--
+
+## [Lectures](https://youtube.com/playlist?list=PLgg7KuV8Q3vVKvrKQu25b8DhM-GpxpwSr&si=onAjb4bzoDGfq1DI)
 
 ---
 
 ## The Revolution is in the Mind
 
-> “The revolution will not be televised,” - Gil Scott-Heron
+> “The revolution will not be televised.”/ 
+> — Gil Scott-Heron
 
 Revolutionary thinking emphasizes mental transformation as the catalyst for societal change. True revolutions begin within—by challenging internalized beliefs and fostering new ways of understanding the world.
 
