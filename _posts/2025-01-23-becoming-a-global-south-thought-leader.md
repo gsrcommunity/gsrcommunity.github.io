@@ -129,12 +129,12 @@ By mentoring through feedback tasks, you will:
 
 Teamwork and leadership is practiced within this program. We will not only build collaboration skills but also fosters individual growth by encouraging accountability, mutual support, and shared learning experiences.
 
-**Team Leader:** We will split into two teams, each having a team leader. Every 2 months we will change team leaders.&#x20;
+**Team Leader:** We will split into two teams, each having a team leader.&#x20;
 
 Team leaders will have to:&#x20;
 
 - Provide direction for their team.
-- Organize their teammates and help them progress through the program—lead them through assignments, help them with their project, organize team activities, and possibly more.
+- Organize their teammates and help them progresh the program—lead them through assignments, help them with their project, organize team activities, and possibly more.
 
 **Responsibilities:** Work closely with each other and practice leadership. Your responsibilities include:
 
