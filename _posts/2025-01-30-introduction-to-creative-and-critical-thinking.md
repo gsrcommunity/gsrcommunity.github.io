@@ -10,6 +10,8 @@ tags:
 - thinking
 - creative
 - critical
+pin: false
+published: false
 date: 2025-01-30 01:28 +0000
 ---
 # Stage 1 

@@ -13,6 +13,7 @@ tags:
 - revolutionary
 - stage zero
 pin: false
+published: false
 date: 2025-01-24 07:17 +0000
 ---
 # Stage 0
@@ -149,7 +150,7 @@ This insight from Confucius inspired the Global South Thought Leadership Program
 
 By embracing Confucius’s revolutionary idea, we can learn to balance tradition with innovation, creating a world that values wisdom, respect, and compassion.
 
---
+---
 
 ## [Lectures](https://youtube.com/playlist?list=PLgg7KuV8Q3vVKvrKQu25b8DhM-GpxpwSr&si=onAjb4bzoDGfq1DI)
 
