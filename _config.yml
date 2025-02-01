@@ -232,8 +232,12 @@ jekyll_compose:
       image:
       category:
       tags:
+      published: false
+      comments: false
     posts:
       description:
       image:
       category:
       tags:
+      comments: false
+      published: false

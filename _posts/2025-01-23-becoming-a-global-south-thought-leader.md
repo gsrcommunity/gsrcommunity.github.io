@@ -13,6 +13,7 @@ tags:
 - conduct
 - leadership
 pin: true
+comments: false
 ---
 # Introduction
 

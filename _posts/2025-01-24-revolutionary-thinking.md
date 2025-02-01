@@ -14,6 +14,7 @@ tags:
 - stage zero
 pin: false
 published: false
+comments: false
 date: 2025-01-24 07:17 +0000
 ---
 # Stage 0
