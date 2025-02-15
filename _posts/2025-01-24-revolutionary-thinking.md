@@ -13,7 +13,7 @@ tags:
 - revolutionary
 - stage zero
 pin: false
-published: false
+published: true
 comments: false
 date: 2025-01-24 07:17 +0000
 ---
